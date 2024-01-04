@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name JQC_Relay)(type Legacy)(uri "C:/Users/Michael/Documents/NA Miata/RPiPS/RPi_PS/JQC-3F_1C_DC3V/KiCad/JQC-3F_1C_DC3V.lib")(options "")(descr "12VDC Relay"))
+)
